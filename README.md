@@ -1,6 +1,6 @@
 # myshop
 
-A new Flutter project.
+This is an e-commerce app. Here you can order a product also you can add it to favorite and later order it. Also add can make changes to existing product as well as add new product.
 
 ## Getting Started
 
